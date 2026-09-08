@@ -1,1 +1,2 @@
-# shift_entrance_task
+*   **Модель генератор:** `Qwen/Qwen2.5-7B-Instruct` (в 4-битной квантизации).
+*   В качестве модели для классификации был выбран BERT-подобный энкодер `cointegrated/rubert-tiny2`.
